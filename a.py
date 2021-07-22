@@ -392,7 +392,6 @@
 
 
 
-# dảk-dảk-bủh-bủh-lmao
-
+# fuckyeah
 
 
