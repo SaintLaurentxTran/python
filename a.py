@@ -5,7 +5,6 @@
 # print(weightKgs)
 
 
-
 # course = '''
 # Dear, Nvi
 
@@ -18,11 +17,9 @@
 # '''
 # print(course)
 
-          
-          
+
 # Strings = 'Thanh mòi đẹp trai vl'
 # print( Strings[0:5])
-
 
 
 ###  Formatted Strings  ###
@@ -36,7 +33,6 @@
 # # print(message2)
 
 
-
 # String Methods
 # Fact = 'Liverpool is absolutely a strong team'
 # print(Fact.upper())
@@ -46,7 +42,6 @@
 # print('is' in Fact)
 # print(Fact.title())
 # more and more and more
-
 
 
 # Operator Precedence
@@ -61,17 +56,15 @@
 # print(x)
 
 
-
 # Math Functions
 # x = 9.9
 # print(round(x))
 # print(abs(-x))
 # import math
 # print(math.floor(x))
-# print(math.frexp(x)) 
+# print(math.frexp(x))
 # print(math.pi)
 # print(math.degrees(0.15))
-
 
 
 # If Statements
@@ -96,14 +89,11 @@
 # print(f'Down payment: ${downPayment}')
 
 
-
-
 # Logical Operator
 # hasGoodCredit = True
 # hasCriminalRecord = True
 # if hasGoodCredit or hasCriminalRecord:
 #     print('Eligible for loan')
-
 
 
 # temperature = int(input('Type the temperature today(celcius) '))
@@ -115,8 +105,6 @@
 #     print("It's a normal day")
 
 
-
-
 # name = input('Type your full name ')
 # if len(name) <3:
 #     print('Name must be at least 3 characters')
@@ -124,8 +112,6 @@
 #     print('Name can be maximum of 50 characters')
 # else:
 #     print('Name looks good')
-
-
 
 
 # Weight converter proggram
@@ -139,7 +125,6 @@
 #     print(f'You are tall {converted} feets ')
 
 
-
 # temp = float(input("Type the temperature you want to convert: "))
 # unit = input("(celcius) or (fahrenheit): ")
 # if unit.upper() == "CELCIUS":
@@ -150,13 +135,9 @@
 #     print(f"It's {converted} Celcius")
 
 
-
-
-
 # heightFeets = float(input('Type your height?(ft)'))
 # convertedToMeters = heightFeets * 0.3048
 # print(f"You are tall {convertedToMeters}")
-
 
 
 # While loops
@@ -167,14 +148,11 @@
 # print('Done')
 
 
-
 # Print first 10 natural numbers using while . loop
 # i = 0
 # while i <=10:
 #     print(i)
 #     i +=1
-
-
 
 
 # Building a guessing game
@@ -198,11 +176,6 @@
 #         break
 # else:
 #     print('18/02/2005')
-
-
-
-
-
 
 
 # Building a plane game
@@ -232,8 +205,6 @@
 #         break
 #     else:
 #         print("Sorry I don't understand that.")
-
-
 
 
 # For loops
@@ -266,13 +237,10 @@
 #     print('I love', chuoi[tu])
 
 
-
 # Nested Loops
 
 # for x in range(10):
 #     print(x)
-
-
 
 
 # numbers = [1, 8, 2, 2, 5]
@@ -280,8 +248,7 @@
 #     print('x' * xNumber)
 
 
-
-# List 
+# List
 
 # names = ['Tran', 'Quoc', 'Thanh']
 # print(names)
@@ -294,7 +261,6 @@
 # print(max)
 
 
-
 # matrix = [
 #     [1, 2, 3],
 #     [4, 5, 6],
@@ -303,7 +269,6 @@
 # for row in matrix:
 #     for item in row:
 #         print(item)
-
 
 
 # List Method
@@ -324,7 +289,6 @@
 # print(numbers.count(7))
 
 
-
 # numbers = [2, 3, 1, 9, 4, 6, 9, 3]
 # unit = []
 # for number in numbers:
@@ -334,14 +298,6 @@
 
 
 # array4 = [1, 2, 3, 4, 3, 5, 1, 4]
-
-
-
-
-
-
-
-
 
 
 # phoneNumber = input("Type your phone number: ")
@@ -363,9 +319,6 @@
 # print(output)
 
 
-
-
-
 # mess = input("How are you today? ")
 # words = mess.split(' ')
 # emojis = {
@@ -377,10 +330,6 @@
 #     output += emojis.get(word, word) + " "
 # print(output)
 
- 
-
-
-
 
 # def merge(d1,d2):
 #     d1.update(d2)
@@ -390,7 +339,4 @@
 # print(dictionaries)
 
 
-
-# done
-
-
+# refesh
