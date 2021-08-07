@@ -6,10 +6,16 @@
 # Text-to-speech function
 # def functionName()
 # def fuonctionName(argument1)
+
+
 # def functionName():
 #     return
+
+
 # def functionName(argument):
 #     return
+
+
 # def textToSpeech(_phoneNumber):
 #     spell = {
 #         "1": "One",
@@ -23,15 +29,11 @@
 
 #     return _speech
 
-phoneNumber = input("Type your phone number: ")
-_list = textToSpeech(phoneNumber)
-print(_list)
+
+# phoneNumber = input("Type your phone number: ")
+# _list = textToSpeech(phoneNumber)
+# print(_list)
 
 
 # phoneNumber = input("Type your phone number: ")
 # textToSpeech(phoneNumber)
-
-
-
-
-
