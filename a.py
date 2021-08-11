@@ -350,4 +350,4 @@
 # Each skater get one challenge.
 # Offensive toe drag gets one do over.
 # Defensive toe drag has a bigger margin for error. But will ultimately be decided by the referee.
-# Let's keep it clean. Let's keep it lean. This is battle at Berrics and there's only gonna be be one winner, so may God have Mercy on your souls.
+# Let's keep it clean. Let's keep it lean. This is battle at Berrics and there's only gonna be one winner, so may God have Mercy on your souls.
