@@ -339,4 +339,3 @@
 # print(dictionaries)
 
 
-# So may god have mercy on your soul
