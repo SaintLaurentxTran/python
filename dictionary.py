@@ -37,5 +37,3 @@
 
 # phoneNumber = input("Type your phone number: ")
 # textToSpeech(phoneNumber)
-
-# @thanhmoideptraikhongaibang
