@@ -339,7 +339,7 @@
 # print(dictionaries)
 
 
-# BATTLE AT THE BERRICS 12
+# BATTLE AT THE BERRICS RULES
 
 
 # This is flatground only, but that doesn't mean anything on flatground counts.
