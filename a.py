@@ -339,21 +339,14 @@
 # print(dictionaries)
 
 
-# BATTLE AT THE BERRICS RULES
+# import random
 
 
-# This is flatground only, but that doesn't mean anything on flatground counts.
-# No feet on the ground. That means no, no complies
-# No handplants.
-# No bonelesses.
-# No grabs.
-# No doing tricks that slide on the ground if your opponent popped his tricks.
-# No malto manual shit.
-# Last letter get two tries.
-# Each skater get one challenge.
-# Offensive toe drag gets one do over.
-# Defensive toe drag has a bigger margin for error. But will ultimately be decided by the referee.
-# Let's keep it clean. Let's keep it lean. This is battle at Berrics and there's only gonna be one winner, so may God have Mercy on your souls.
+# class Dice:
+#     def roll(self):
+#         first = random.randint(1, 6)
+#         second = random.randint(1, 6)
+#         return first, second
 
-# Rochambeau!!!!!
-
+# dice = Dice()
+# print(dice.roll())
