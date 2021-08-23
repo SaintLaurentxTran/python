@@ -352,4 +352,3 @@
 # print(dice.roll())
 
 
-# Tớ yêu cậu
