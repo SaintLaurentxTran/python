@@ -18,14 +18,14 @@
 # print(course)
 
 
-# Strings = 'Thanh mòi đẹp trai vl'
+# Strings = 'giang mòi đẹp trai vl'
 # print( Strings[0:5])
 
 
 ###  Formatted Strings  ###
 
 # first = 'Tran'
-# last = 'Thanh'
+# last = 'giang'
 # age = 16
 # message1 = last + ' ['+first+']' +  ' is '
 # message2 = f'{last} [{first}] is {age} a student'
@@ -250,7 +250,7 @@
 
 # List
 
-# names = ['Tran', 'Quoc', 'Thanh']
+# names = ['Tran', 'Quoc', 'giang']
 # print(names)
 
 # numbers = [9, 172, 13, 3, 45, 18, 99]
