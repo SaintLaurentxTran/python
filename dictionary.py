@@ -37,3 +37,13 @@
 
 # phoneNumber = input("Type your phone number: ")
 # textToSpeech(phoneNumber)
+
+
+yearOfBirth = int(input("Type your year of birth: "))
+age = 2021 - yearOfBirth
+if 16 <= age <= 18:
+    print('Mày đã được vào web phở hub')
+elif 18 <= age <= 20:
+    print('adas')
+else:
+    print(đâs)
