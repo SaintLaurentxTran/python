@@ -10,4 +10,4 @@ else:
     print("khít")
 
 # Code by Thanhmoiz
-# first commit
+# first commit by thanhmoiz
