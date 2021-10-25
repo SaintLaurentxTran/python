@@ -10,4 +10,3 @@ else:
     print("khít")
 
 # Code by Thanhmoiz
-# aushjet i'm Thanh
