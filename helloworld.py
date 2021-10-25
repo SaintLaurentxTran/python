@@ -5,7 +5,7 @@ age = 2021 - yearOfBirth
 if age > 16:
     print("máy bay")
 elif age < 16:
-    print("not máy bay")
+    print("không phải là máy bay")
 else:
     print("khít")
 
