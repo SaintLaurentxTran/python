@@ -10,3 +10,4 @@ else:
     print("khít")
 
 # Code by Thanhmoiz
+# fuckyeah
