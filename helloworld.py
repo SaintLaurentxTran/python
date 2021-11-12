@@ -9,5 +9,5 @@ elif age < 16:
 else:
     print("khít")
 
-# Code by Thanhmoizgoodboy
+# Code by Thanhmoizdeptraigalangnhatvutru
 
